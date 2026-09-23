@@ -4,6 +4,8 @@ App Router PWA with **VAPID web push** and a custom service worker, based on the
 
 Firebase Cloud Messaging twin: [nextjs-pwa-boilerplate-fcm](https://github.com/noowxela/nextjs-pwa-boilerplate-fcm).
 
+Static UI (no push server): [GitHub Pages](https://noowxela.github.io/nextjs-pwa-boilerplate/). Subscribe and send stay on `npm run dev`.
+
 Requires **Node.js >= 20**.
 
 ## Quick start

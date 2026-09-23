@@ -37,3 +37,4 @@
 - Install UX: Chromium `beforeinstallprompt`; iOS Share → Add to Home Screen; otherwise a short “no install prompt” note.
 - `NotificationSettingsCheck` shows site `Notification.permission` and a test banner. It **cannot** read macOS System Settings → Notifications → Firefox.
 - Serwist / full offline framework is out of scope; optional future upgrade.
+- GitHub Pages (`GITHUB_PAGES=true`) static-exports the UI to `https://noowxela.github.io/nextjs-pwa-boilerplate/`. Subscribe and send stay on local `next dev`.
