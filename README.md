@@ -1,6 +1,8 @@
-# Next.js PWA boilerplate (study)
+# Next.js PWA boilerplate
 
-A small App Router PWA for learning **Web Push (VAPID)** and a custom service worker — based on the [Next.js Progressive Web Apps guide](https://nextjs.org/docs/app/guides/progressive-web-apps).
+App Router PWA with **VAPID web push** and a custom service worker, based on the [Next.js Progressive Web Apps guide](https://nextjs.org/docs/app/guides/progressive-web-apps).
+
+Firebase Cloud Messaging twin: [nextjs-pwa-boilerplate-fcm](https://github.com/noowxela/nextjs-pwa-boilerplate-fcm).
 
 Requires **Node.js >= 20**.
 
