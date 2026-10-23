@@ -3,7 +3,7 @@
 - **Repo:** `study/next-playground/a_3nextjs-pwa-boilerplate`
 - **Status:** `implemented`
 - **Date:** 2026-09-23
-- **Related:** [000-architecture.md](./000-architecture.md), [Next.js PWA guide](https://nextjs.org/docs/app/guides/progressive-web-apps)
+- **Related:** [architecture.md](../architecture.md), [Next.js PWA guide](https://nextjs.org/docs/app/guides/progressive-web-apps)
 
 ## 1. Context / current architecture
 

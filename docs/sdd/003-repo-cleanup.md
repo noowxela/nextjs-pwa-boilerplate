@@ -3,7 +3,7 @@
 - **Repo:** `o000o_active/a_3nextjs-pwa-boilerplate`
 - **Status:** `implemented`
 - **Date:** 2026-09-23
-- **Related:** [000-architecture.md](./000-architecture.md), [002-pwa-hardening.md](./002-pwa-hardening.md)
+- **Related:** [architecture.md](../architecture.md), [002-pwa-hardening.md](./002-pwa-hardening.md)
 
 ## 1. Context / current architecture
 

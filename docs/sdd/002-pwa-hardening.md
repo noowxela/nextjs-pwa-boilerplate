@@ -3,7 +3,7 @@
 - **Repo:** `study/next-playground/a_3nextjs-pwa-boilerplate`
 - **Status:** `implemented`
 - **Date:** 2026-09-23
-- **Related:** [000-architecture.md](./000-architecture.md), [001-deps-latest.md](./001-deps-latest.md)
+- **Related:** [architecture.md](../architecture.md), [001-deps-latest.md](./001-deps-latest.md)
 
 ## 1. Context / current architecture
 
@@ -36,7 +36,7 @@ App Router PWA per official Next.js guide: VAPID web-push, `lib/service-worker.j
 6. `.env.example`; gitignore `data/`, `.env.local`, certificates
 7. `engines.node >= 20`; pin `typescript` to `^5.9.2` (Next-compatible major)
 8. Basic offline: precache icons + `/` in `lib/service-worker.js`
-9. Update `000-architecture.md`
+9. Update `docs/architecture.md`
 
 ## 5. Acceptance criteria and verification
 
